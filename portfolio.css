@@ -300,7 +300,7 @@ html{
 .prog-bar5{
     background-color: var(--main-color);
     text-align: center;
-    width: 50%;
+    width: 90%;
     border-radius: 10px;
 }
 .prog-bar6{
